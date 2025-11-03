@@ -63,13 +63,13 @@ Try out the live version of **U-CAM** hosted on Hugging Face Spaces:
 ### 🖼️ Preview  
 
 #### Transaction Mode  
-![Transaction Mode](https://huggingface.co/spaces/bibek2/U-CAM/blob/main/Demo/Transaction.png)
+![Transaction Mode](https://huggingface.co/spaces/bibek2/U-CAM/resolve/main/Demo/Transaction.png)
 
 #### Analysis Output  
-![Gemini Risk Analysis](https://huggingface.co/spaces/bibek2/U-CAM/blob/main/Demo/Gemini_analysis.png)  
+![Gemini Risk Analysis](https://huggingface.co/spaces/bibek2/U-CAM/resolve/main/Demo/Gemini_analysis.png)  
 
 #### Email Mode  
-![Email Mode](https://huggingface.co/spaces/bibek2/U-CAM/blob/main/Demo/Email.png)  
+![Email Mode](https://huggingface.co/spaces/bibek2/U-CAM/resolve/main/Demo/Email.png)  
 
 
 ---
