@@ -52,3 +52,39 @@ It demonstrates how **AI and cybersecurity** can be combined to analyze threats 
 2. Set your Gemini API key before running:  
    ```python
    GOOGLE_API_KEY = userdata.get('ml_project')
+---
+
+## 🌐 Live Demo  
+
+Try out the live version of **U-CAM** hosted on Hugging Face Spaces:  
+
+👉 [**Launch Demo on Hugging Face**](https://huggingface.co/spaces/bibek2/U-CAM)
+
+### 🖼️ Preview  
+
+#### Transaction Mode  
+![Transaction Mode](https://huggingface.co/spaces/bibek2/U-CAM/blob/main/Demo/Transaction.png)
+
+#### Analysis Output  
+![Gemini Risk Analysis](https://huggingface.co/spaces/bibek2/U-CAM/blob/main/Demo/Gemini_analysis.png)  
+
+#### Email Mode  
+![Email Mode](https://huggingface.co/spaces/bibek2/U-CAM/blob/main/Demo/Email.png)  
+
+
+---
+
+### 🧠 How It Works  
+
+1. Choose between **Transaction** or **Email** input mode.  
+2. Fill in the required mock data fields (e.g., transaction amount, location, or sender).  
+3. Click **“Analyze with Gemini”**.  
+4. The app calls **Gemini 2.0 Flash API** and returns a **JSON-based risk analysis** that is converted to Markdown in Gradio.  
+5. The final section displays:  
+   - **Risk level** (Low/Medium/High)  
+   - **Reason & Indicators**  
+   - **Recommendations**  
+   - **Optional Cybersecurity Tips**  
+
+---
+
