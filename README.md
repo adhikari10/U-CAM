@@ -72,7 +72,7 @@ Try out the live version of **U-CAM** hosted on Hugging Face Spaces:
 ![Email Mode](https://huggingface.co/spaces/bibek2/U-CAM/resolve/main/Demo/Email.png)  
 
 #### Presentation
-[View Full Presentation (Google Drive)] (https://drive.google.com/file/d/1dDZiPYCXNuL1jHE7oWdIDEfRW-v_O3mp/view?usp=sharing)
+- [View Full Presentation (Google Drive)] (https://drive.google.com/file/d/1dDZiPYCXNuL1jHE7oWdIDEfRW-v_O3mp/view?usp=sharing)
 
 #### Team Reflection
 - [4Ls Reflection Document (Google Drive)](https://drive.google.com/file/d/1NwHb3nnRp3DMvrtwLEn8B886QBqoVkbE/view?usp=sharing)
