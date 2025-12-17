@@ -33,16 +33,6 @@ It demonstrates how **AI and cybersecurity** can be combined to analyze threats 
 - **Validation:** Regex-based checks before API requests  
 - **Disclaimers:** All outputs clearly state that results are for educational purposes only  
 
----
-
-## 👩‍💻 Roles & Contributions  
-
-| Member | Role | Key Tasks |
-|:--|:--|:--|
-| **Tanya** | Team Lead | Gradio UI, testing, presentation |
-| **Bibek** | Backend Logic | Gemini prompts, API integration, safety setup |
-| **Chris** | Email Logic | Phishing detection logic, documentation |
-| **Dobrin** | Output Clarity | JSON formatting, testing, backup idea |
 
 ---
 
@@ -72,7 +62,7 @@ Try out the live version of **U-CAM** hosted on Hugging Face Spaces:
 ![Email Mode](https://huggingface.co/spaces/bibek2/U-CAM/resolve/main/Demo/Email.png)  
 
 #### Presentation
-- [View Full Presentation (Google Drive)] (https://drive.google.com/file/d/1dDZiPYCXNuL1jHE7oWdIDEfRW-v_O3mp/view?usp=sharing)
+- [View Full Presentation (Google Drive)](https://drive.google.com/file/d/1dDZiPYCXNuL1jHE7oWdIDEfRW-v_O3mp/view?usp=sharing)
 
 #### Team Reflection
 - [4Ls Reflection Document (Google Drive)](https://drive.google.com/file/d/1NwHb3nnRp3DMvrtwLEn8B886QBqoVkbE/view?usp=sharing)
