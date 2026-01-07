@@ -1,6 +1,6 @@
 # 👥 Detailed Team Contributions
 
-## 🌟 Tanya Jha - Team Leads
+## 🌟 Tanya Jha - Team Lead
 **Roles:** Team Lead • Code Lead • UI & Testing • AI Researcher • UI Safety & Output Validation • Presentation Lead
 
 ### Key Responsibilities:
