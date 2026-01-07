@@ -55,7 +55,7 @@
 
 ---
 
-## 🎯 Dobrin - Output Clarity & Testing
+## 🎯 Dobrin's - Output Clarity & Testing
 **Roles:** Output Clarity Lead • Testing Support • Creative Backup Contributor
 
 ### Key Responsibilities:
